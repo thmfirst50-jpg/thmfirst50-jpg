@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Safi 👋
 
-<!--
-**thmfirst50-jpg/thmfirst50-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="images/profile.jpg" alt="Safi" width="180" style="border-radius:50%;">
+</p>
 
-Here are some ideas to get you started:
+🎓 **Computer/Electrical Engineering Student**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about **Machine Learning, Embedded Systems, Robotics, and Computer Vision**. I enjoy designing projects that combine hardware and software to solve real-world engineering problems, and I'm always looking to expand my skills through hands-on development.
+
+---
+
+## 🛠 Tech
+
+**Languages:** Python • C++ • C • Java • JavaScript • Lua
+
+**Tools:** TensorFlow • PyTorch • Sklearn • OpenCV • Git • Linux • Raspberry Pi • ESP32
+
+---
+
+## 📫 Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/safi0/
+- 📧 Email: safi.ezra@gmail.com
