@@ -1,9 +1,5 @@
 # Hi, I'm Safi 👋
 
-<p align="center">
-  <img src="images/profile.jpg" alt="Safi" width="180" style="border-radius:50%;">
-</p>
-
 🎓 **Computer/Electrical Engineering Student**
 
 I'm passionate about **Machine Learning, Embedded Systems, Robotics, and Computer Vision**. I enjoy designing projects that combine hardware and software to solve real-world engineering problems, and I'm always looking to expand my skills through hands-on development.
