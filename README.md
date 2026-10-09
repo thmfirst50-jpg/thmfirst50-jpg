@@ -1,6 +1,6 @@
 # Hi, I'm Safi 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-090B0E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thmfirst50-jpg.github.io/thmfirst50-jpg/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-090B0E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thmfirst50-jpg.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ezra%20Safi-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/safi0/)
 
 🎓 **Computer/Electrical Engineering Student @ University of Houston**
